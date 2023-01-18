@@ -1,0 +1,15 @@
+D:\C sharp project\LinqSample\LinqSample\bin\Debug\net6.0\LinqSample.exe
+D:\C sharp project\LinqSample\LinqSample\bin\Debug\net6.0\LinqSample.deps.json
+D:\C sharp project\LinqSample\LinqSample\bin\Debug\net6.0\LinqSample.runtimeconfig.json
+D:\C sharp project\LinqSample\LinqSample\bin\Debug\net6.0\LinqSample.dll
+D:\C sharp project\LinqSample\LinqSample\bin\Debug\net6.0\LinqSample.pdb
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.csproj.AssemblyReference.cache
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.AssemblyInfoInputs.cache
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.AssemblyInfo.cs
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.csproj.CoreCompileInputs.cache
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.dll
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\refint\LinqSample.dll
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.pdb
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\LinqSample.genruntimeconfig.cache
+D:\C sharp project\LinqSample\LinqSample\obj\Debug\net6.0\ref\LinqSample.dll
